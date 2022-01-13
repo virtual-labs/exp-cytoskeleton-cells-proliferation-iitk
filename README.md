@@ -20,5 +20,5 @@ Our research group focuses on the fabrication and designing of biomaterials for 
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dhananjay Umrao | Project Engineer | Information Technology | Dr.AITH | dumrao@iitk.ac.in
-2 | Sheetal Singh | Sr. Project Associate | Computer Science | PSIT | sheetal.singh458@gmail.com
+1 | Dhananjay Umrao | Project Engineer | Information Technology | Dr.AITH Kanpur | dumrao@iitk.ac.in
+2 | Sheetal Singh | Sr. Project Associate | Computer Science | PSIT Kanpur | sheetal.singh458@gmail.com
