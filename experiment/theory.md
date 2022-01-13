@@ -12,13 +12,13 @@ The emission of light of higher wavelength after the irradiation of the sample w
 2) Emission spectra shifts towards higher wavelengths.<br>
 3) The difference between the wavelength is called Stoke's Shift.<br>
 4) The intensity of emitted light is generally of 10-6 times of excitation light.<br><br>
-<img src="images/pic1.jpg"><br><br>
+<img src="images/wavelength.jpg"><br><br>
 <b>Precautions</b><br><br>
 1) Turn-off the ligths of the room during the fluorescence experiment.<br>
 2) Do not expose the fluorophore treated specimen under the specific wavelength of light as the duration of the fluorescence phenomena is of the order of 10-6-10-9 seconds.<br>
 4) Always use the UV shield while using the eyepiece.<br><br>
 <b>Common Staining Agents used in Biological Studies</b><br><br>
-<img src="images/pic1.jpg"><br><br>
+<img src="images/staningagent.jpg"><br><br>
 <b>Applications</b><br><br>
 <b>Biological and Life Sciences</b><br>
  1) To view tissue and their sub-microscopic components and changes their in.<br>
@@ -31,6 +31,6 @@ To see the various attributes of minerals, crystals, resins, chlorophyll and ino
 <b>Results</b><br><br>
 Following is image of the cytoskeleton of cells proliferation on biomaterial surface<br>
 <img src="images/cytoskeleton.jpg"><br>
-Above is the image showing the cytoskeleton of the cell in a spread-out fashion. The other components/organelles are not visible here due to the specificity of the stain towards cytoskeleton<br>
+Above is the image showing the cytoskeleton of the cell in a spread-out fashion. The other components/organelles are not visible here due to the specificity of the stain towards cytoskeleton<br><br>
 <img src="images/merged.jpg"><br>
 Above is the merged image showing the spread-out cytoskeleton as well as the nucleus of the cell. This is obtained by fusing the image obtained for the cytoskeleton and the nucleus together, which is performed by using a particular software pack
