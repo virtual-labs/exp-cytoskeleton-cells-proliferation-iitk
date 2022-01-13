@@ -12,13 +12,13 @@ The emission of light of higher wavelength after the irradiation of the sample w
 2) Emission spectra shifts towards higher wavelengths.<br>
 3) The difference between the wavelength is called Stoke's Shift.<br>
 4) The intensity of emitted light is generally of 10-6 times of excitation light.<br><br>
-<img src="images/pic1.jpg"><br><br>
+<img src="images/wavelength.jpg"><br><br>
 <b>Precautions</b><br><br>
 1) Turn-off the ligths of the room during the fluorescence experiment.<br>
 2) Do not expose the fluorophore treated specimen under the specific wavelength of light as the duration of the fluorescence phenomena is of the order of 10-6-10-9 seconds.<br>
 4) Always use the UV shield while using the eyepiece.<br><br>
 <b>Common Staining Agents used in Biological Studies</b><br><br>
-<img src="images/pic1.jpg"><br><br>
+<img src="images/staningagent.jpg"><br><br>
 <b>Applications</b><br><br>
 <b>Biological and Life Sciences</b><br>
  1) To view tissue and their sub-microscopic components and changes their in.<br>
