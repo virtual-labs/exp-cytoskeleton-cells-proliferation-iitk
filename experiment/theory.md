@@ -2,6 +2,11 @@ Our research group focuses on the fabrication and designing of biomaterials for 
 <a href="https://youtu.be/yZKdFVAJcrE">NPTEL Link</a><br>
 <b>Principle</b><br><br>
 The emission of light of higher wavelength after the irradiation of the sample with known specific wavelength within nanoseconds is called Fluorescence.An instrument called fluorescence microscope is an optical microscope which utilizes a specific wavelength of light to study the properties of substances by the principle of fluorescence. Monochromatic light is used to illuminate the specimen which excites the fluorophore molecules. These fluorophore molecules release low intensity light of higher wavelengths during relaxation which passes through dichromatic mirror and emission filter which blocks the excitation light and allows the emitted light to pass, and enhances the intensity of the emitted light. Hence, single colure image can be obtained at a time due to the excitation of single fluorophore. A sample containing different fluorophore are imaged to observed different features present in the sample and these single colored images are merged to obtain the multi-colored images.<br><br>
+<div style="float:left;width:55%;border: solid 1 px black;"><img src="images/nano1.jpg"></div>
+ <div style="float:left;width:40%;border: solid 1 px black;"><video width="500" height="240" controls>
+  <source src="images/nfm.mp4" type="video/mp4">
+  Your browser does not support the video tag</video></div><br>
+  <div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div>
 <b>Excitation and Emission Spectra</b><br><br>
 1) The excitation and emission spectra are nearly the mirror image of each other.<br>
 2) Emission spectra shifts towards higher wavelengths.<br>
