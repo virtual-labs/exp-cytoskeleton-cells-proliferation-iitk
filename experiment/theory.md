@@ -1,3 +1,5 @@
+Our research group focuses on the fabrication and designing of biomaterials for hard tissue (bone) replacement. The biocompatibility of these biomaterials is tested by performing cell culture studies (adhesion, growth and proliferation) on biomaterial. Examination of the cell morphology is conducted by using fluorescence microscopy technique. Here, in this experiment, imaging of the cytoskeleton of the cells is performed by using a specific dye or a fluorophore which binds to the actin subunits of the cytoskeleton and then fluoresces green under fluorescence microscope.<br><br>
+<a href="https://youtu.be/yZKdFVAJcrE">NPTEL Link</a>
 <b>Principle</b><br><br>
 The emission of light of higher wavelength after the irradiation of the sample with known specific wavelength within nanoseconds is called Fluorescence.An instrument called fluorescence microscope is an optical microscope which utilizes a specific wavelength of light to study the properties of substances by the principle of fluorescence. Monochromatic light is used to illuminate the specimen which excites the fluorophore molecules. These fluorophore molecules release low intensity light of higher wavelengths during relaxation which passes through dichromatic mirror and emission filter which blocks the excitation light and allows the emitted light to pass, and enhances the intensity of the emitted light. Hence, single colure image can be obtained at a time due to the excitation of single fluorophore. A sample containing different fluorophore are imaged to observed different features present in the sample and these single colored images are merged to obtain the multi-colored images.<br><br>
 <b>Excitation and Emission Spectra</b><br><br>
@@ -20,4 +22,10 @@ The emission of light of higher wavelength after the irradiation of the sample w
  4) Movement of virus on a bi-layered membrane.<br>
  5) Crude drugs.<br><br>
 <b>Material Science</b><br>
-To see the various attributes of minerals, crystals, resins, chlorophyll and inorganic compounds.
+To see the various attributes of minerals, crystals, resins, chlorophyll and inorganic compounds.<br><br>
+<b>Results</b><br><br>
+Following is image of the cytoskeleton of cells proliferation on biomaterial surface<br>
+<img src="images/cytoskeleton.jpg"><br>
+Above is the image showing the cytoskeleton of the cell in a spread-out fashion. The other components/organelles are not visible here due to the specificity of the stain towards cytoskeleton<br>
+<img src="images/merged.jpg"><br>
+Above is the merged image showing the spread-out cytoskeleton as well as the nucleus of the cell. This is obtained by fusing the image obtained for the cytoskeleton and the nucleus together, which is performed by using a particular software pack
